@@ -1,0 +1,12 @@
+export const Img1 = require('./Kami/Introduction.png');
+export const Img2 = require('./Kami/Agyo-zo.png'); 
+export const Img3 = require('./Kami/amenouzume2.jpg');
+export const Img4 = require('./Kami/Amaterasu.png');
+export const Img5 = require('./Kami/AmatsuMikoboshi.png');
+export const Img6 = require('./Kami/Ashura.png');
+export const Img7 = require('./Kami/Benzaiten.png');
+export const Img8 = require('./Kami/Bishamon.png');
+export const Img9 = require('./Kami/ShichiFukujin.png'); 
+export const Img10 = require('./Kami/Dōsojin.png');
+export const Img11 = require('./Kami/Daikokuten.png');
+export const Img12 = require('./Kami/Ebisu.png');
